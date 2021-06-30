@@ -1,3 +1,3 @@
 # Color Game
 
-Gaming project
+Gaming project [live🚀](https://rio-color-game.netlify.app/)
